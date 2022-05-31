@@ -56,7 +56,8 @@ main{
     margin-top: 15px;
 
     margin-inline: auto;
-    width: 25rem;
+    width: 90%;
+    max-width: 400px;
 
     overflow: hidden;
 
